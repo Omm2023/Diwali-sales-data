@@ -1,1 +1,2 @@
 # Diwali-sales-data
+Here, we analyze the **Diwali Sales dataset** to refine the data and gain insights into customer behavior. By understanding customer preferences, purchasing patterns, and demographics, we aim to enhance sales strategies and tailor marketing efforts effectively. Additionally, we will develop a **machine learning model** to predict future trends and outcomes, enabling proactive decision-making and optimized sales performance during Diwali and similar festive seasons.
